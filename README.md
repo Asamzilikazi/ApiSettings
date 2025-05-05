@@ -227,7 +227,7 @@ namespace Flash.ProductCatalogue.API
 }
 
 
-#appsettings
+# appsettings
 {
   "ApplicationName": "Product Catalogue API",
   "BlobStoreSettings": {
